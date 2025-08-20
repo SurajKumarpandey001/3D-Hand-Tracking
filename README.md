@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-git clone https://github.com/AshutoshKumar18/3D-Hand-Tracking.git
+git clone https://github.com/SurajKumarpandey001/3D-Hand-Tracking.git
 cd hand-gesture-presentation
 
 Install the required packages:
@@ -69,7 +69,7 @@ OpenCV - For image processing.
 Microsoft COM API - For PowerPoint automation.
 
 👨‍💻 Author
-Developed by Ashutosh Kumar Ranjan
+Developed by Suraj Kumar
 
 ---
 
